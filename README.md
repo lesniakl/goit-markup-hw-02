@@ -1,1 +1,1 @@
-# Pierwsze zadanie domowe
+# Drugie zadanie domowe
