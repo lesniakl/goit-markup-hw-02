@@ -15,7 +15,9 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  letter-spacing: 0.03em;
   color: var(--active-element);
+  text-decoration: none;
 }
 .header .logo2 {
   color: #000;
@@ -27,7 +29,9 @@ body {
   font-size: 14px;
   line-height: 1.15;
   font-weight: 500;
+  letter-spacing: 0.02em;
   color: var(--font-color);
+  text-decoration: none;
 }
 .link:focus,
 .link:hover {
@@ -37,6 +41,7 @@ body {
   font-size: 16px;
   line-height: 1.62;
   font-weight: 500;
+  letter-spacing: 0.03em;
 }
 .button-filter:focus,
 .button-filter:hover {
@@ -48,7 +53,9 @@ body {
   font-size: 14px;
   line-height: 1.15;
   font-weight: 500;
+  letter-spacing: 0.02em;
   color: var(--second-font-color);
+  text-decoration: none;
 }
 .contact:focus,
 .contact:hover {
@@ -64,21 +71,25 @@ body {
   font-size: 14px;
   line-height: 1.71;
   font-style: normal;
+  letter-spacing: 0.03em;
   color: #fff;
 }
 .footer .contact {
   line-height: 1.71;
   font-weight: 400;
+  letter-spacing: 0.03em;
 }
 .portfolio-main-projects h3 {
   font-size: 18px;
   line-height: 2;
   font-weight: 700;
+  letter-spacing: 0.06em;
 }
 .portfolio-main-projects p {
   font-size: 16px;
   line-height: 1.88;
   color: var(--second-font-color);
+  letter-spacing: 0.03em;
 }
 .index-main-order {
   background-color: var(--bg-color-accent2);
@@ -87,29 +98,38 @@ body {
   font-size: 44px;
   line-height: 1.36;
   font-weight: 900;
+  letter-spacing: 0.06em;
   color: #fff;
 }
 .button-order {
   font-size: 16px;
   line-height: 1.88;
   font-weight: 700;
+  letter-spacing: 0.06em;
   color: #fff;
   background-color: var(--active-element);
+}
+.button-order:hover,
+.button-order:focus {
+  cursor: pointer;
 }
 .index-article h3 {
   font-size: 14px;
   line-height: 1.15;
   font-weight: 700;
+  letter-spacing: 0.03em;
 }
 .index-article p {
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
   color: var(--second-font-color);
 }
 .index-what-we-do h2 {
   font-size: 36px;
   line-height: 1.17;
   font-weight: 700;
+  letter-spacing: 0.03em;
 }
 .index-team {
   background-color: var(--bg-color-accent1);
@@ -118,14 +138,17 @@ body {
   font-size: 36px;
   line-height: 1.17;
   font-weight: 700;
+  letter-spacing: 0.03em;
 }
 .index-team h3 {
   font-size: 16px;
   line-height: 1.19;
   font-weight: 500;
+  letter-spacing: 0.03em;
 }
 .index-team p {
   font-size: 16px;
   line-height: 1.19;
   color: var(--second-font-color);
+  letter-spacing: 0.03em;
 }
